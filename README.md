@@ -26,6 +26,8 @@ Because the Power Platform Monitor features that Microsoft has rolled out in 202
 
 Read my article [Who monitors the Power Platform Monitor](https://www.perspectives.plus/p/who-monitors-the-power-platform-monitor) for more details. I've also been sharing updates about [missing telemetry data](https://www.linkedin.com/feed/update/urn:li:activity:7374337699186544640/) and [lack of alerts](https://www.linkedin.com/feed/update/urn:li:activity:7381217782463537152/) on LinkedIn.
 
+![Coin Flip test results from 20 days](20%20days%20of%20Monitor%20coin%20flip.png)
+
 ---
 
 **Made by Jukka Niiranen / Niiranen Advisory Oy.**  
