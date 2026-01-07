@@ -26,7 +26,23 @@ Because the Power Platform Monitor features that Microsoft has rolled out in 202
 
 Read my article [Who monitors the Power Platform Monitor](https://www.perspectives.plus/p/who-monitors-the-power-platform-monitor) for more details. I've also been sharing updates about [missing telemetry data](https://www.linkedin.com/feed/update/urn:li:activity:7374337699186544640/) and [lack of alerts](https://www.linkedin.com/feed/update/urn:li:activity:7381217782463537152/) on LinkedIn.
 
+## Latest Results: 142 Days of Testing
+
+![Power Platform Monitor Reliability - 142 days](142_days_monitor_reliability.png)
+
+**Key findings from Aug 19, 2025 - Jan 7, 2026:**
+- **28.9% success rate** - Only 41 out of 142 expected daily alerts were received
+- **101 missed alerts** - Over 70% of alerts never arrived
+- **34-day silent failure** - Complete outage from Aug 27 to Sep 29, 2025 with zero notifications
+
+The data speaks for itself: Power Platform Monitor Alerts are currently not reliable enough for production monitoring scenarios.
+
+<details>
+<summary>Earlier test results (40 days)</summary>
+
 ![Coin Flip test results from 40 days](40%20days%20of%20Monitor%20coin%20flip.png)
+
+</details>
 
 ---
 
